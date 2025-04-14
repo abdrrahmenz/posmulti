@@ -1,4 +1,4 @@
-# flutter_jago_pos_app
+# flutter POS Multi Outlet
 
 A new Flutter project.
 
