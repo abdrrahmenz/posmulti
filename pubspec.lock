@@ -848,6 +848,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.1"
+  pretty_http_logger:
+    dependency: "direct main"
+    description:
+      name: pretty_http_logger
+      sha256: "6577b57c23406268320a128bd73cc391bf5b41dfe237dc9c6fc1390d886e8162"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.5"
   print_bluetooth_thermal:
     dependency: "direct main"
     description:
